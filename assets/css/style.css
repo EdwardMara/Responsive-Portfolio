@@ -227,7 +227,6 @@ body {
   
   
     #masterhead{
-      
       width: 80%;
     }
   
@@ -296,11 +295,7 @@ body {
       margin-bottom: 20px;
     }
   
-    footer {
-      position: absolute;
-      bottom: 0;
-      right: 0;
-    }
+
   }
   
   @media screen and (max-width: 640px) {
@@ -315,7 +310,7 @@ body {
     #main-container {
         padding-top: 0;
     }
-    #logo, .work, .auth-image {
+    #logo, .auth-image, .work {
         width:100%;
     }
     nav{
@@ -325,7 +320,7 @@ body {
     }
     nav a {
         width: 30%;
-        pading-left: 0;
+        padding-left: 0;
         margin-left:0;
     }
 }
