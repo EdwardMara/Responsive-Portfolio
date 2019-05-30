@@ -215,4 +215,13 @@ body {
     background: #4aaaa5;
     border: 0 none;
   }
+
+  @media screen and (max-width: 980px) {
+    .container {
+      width: 748px;
+    }
+    .main-section {
+      width: 440px;
+    }
+  }
   
