@@ -235,4 +235,29 @@ body {
       font-size: 1.75em;
     }
   }
+  @media screen and (max-width: 640px) {
+    .container {
+      width: 100%;
+    }
+    .main-section {
+      margin-left: 10px;
+      width: 95%;
+    }
+    #logo {
+      width: 100%;
+      text-align: center;
+    }
+    .navigation {
+      width: 100%;
+      padding-top: 10px;
+    }
+    .contact-form {
+      width: 33.33%;
+      text-align: center;
+      margin-bottom: 10px;
+    }
+    h1 {
+      font-size: 1.5em;
+    }
+  }
   
