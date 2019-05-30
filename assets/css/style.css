@@ -250,6 +250,7 @@ body {
     .navigation {
       width: 100%;
       padding-top: 10px;
+      text-align: center;
     }
     .contact-form {
       width: 33.33%;
