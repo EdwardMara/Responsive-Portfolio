@@ -12,4 +12,5 @@ Responsiveness is important because it allows users to view the page's content i
 Chrome inspect tools and extensions for explicitly defining browser window size were helpful in testing different sized screen output on my workstation.
 
 
-
+<h2>Link to deployed GitHub</h2>
+<a href="https://edwardmara.github.io/Responsive-Portfolio/">edwardmara.github.io</a>
