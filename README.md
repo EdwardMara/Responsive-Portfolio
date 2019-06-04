@@ -1,4 +1,4 @@
-Responsive-Portfolio
+<h1>Responsive-Portfolio</h1>
 
 This assignment involves updating the style sheet of my portfolio page in order to make it responsive to the size of the viewport.
 
@@ -10,3 +10,6 @@ Responsiveness is important because it allows users to view the page's content i
 980px being for computer monitors down to 640 which is common for mobile devices.
 
 Chrome inspect tools and extensions for explicitly defining browser window size were helpful in testing different sized screen output on my workstation.
+
+
+
